@@ -3,9 +3,27 @@
 
 ## 1. How to install `tinytroupe` packages?
 
+* We can install TinyTroupe package usig git clone:
+
+    ```bash
+    git clone https://github.com/microsoft/TinyTroupe.git
+    ```
 
 ## 2. What is Turing Test? In today's world with Large Language Models (LLMs), what is the definition of Turing Test?
 
+* The Turing Test was proposed by Alan Turing in 1950. He is a British mathematician and pioneer in computer science. It was introduced in his paper "Computing Machinery and Intelligence", where he famously posed the question: 
+    
+    > "Can machines think?"
+
+* There is a practice test to answer this question:
+
+    * A human judge has a text-based conversation with 2 unseen participants: human, and machine.
+
+    * If the judge cannot reliably distinguish which is which, the machine is said to have pass the Turing Test, it demonstrates human-like intelligence.
+
+* In today's world Large Language Models (LLMs) such as openAI ChatGPT, Google Gemini, they often pass casual Turing Test in informal conversations, sometimes even outperforming humans in structures tasks. 
+
+* Passing the Turing Test is no longer a gold standard for intelligence. Theses LLMs generate language using pattern recognition, not understanding. They can simulate intelligence, but they don't have beliefs, goals, or awareness.
 
 ## 3. Create a simulation of your own topic and show me the transcript. This implies define at least two personas of your own choice with conflict built in and observe their conversation. You can simply copy/paste the conversation in a `.md` file. Please comment on the transcript whether you think the Turing Test is passed.
 
@@ -352,4 +370,20 @@ Bob acts: [DONE]
 
 ## My comment
 
-I think the chat bots passed the Turing Test. Here is why...
+* In terms of language fluency and context awareness
+
+    * It absolutely passed the Turing Test
+
+    * The language is natural, polite, and professional.
+
+    * Both personas give detailed and thouhtful responses and instructions, actionable feedback, and show growth and curiosity.
+
+    * The conversation flows logically and stays on-topic.
+
+* In terms of linguistic. and interaction standpoint:
+
+    * It can be too formal, structured, and lengthy.
+
+    * Still, it can fool an average human observer.
+
+    * The agents do not show true understanding, they only simulate understanding through pattern recognition, not real comprehension.
